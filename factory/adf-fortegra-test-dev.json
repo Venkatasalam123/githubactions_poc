@@ -1,0 +1,9 @@
+{
+	"name": "adf-fortegra-test-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e228230-08ed-4412-9f19-1f93b10cef69",
+		"tenantId": "ed6d06e9-4ca6-4317-ab41-b01e84f9147a"
+	}
+}

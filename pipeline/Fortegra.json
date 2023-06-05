@@ -1,0 +1,19 @@
+{
+	"name": "Fortegra",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-05-31T14:08:59Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
